@@ -29,3 +29,5 @@ Flow-сумматор.
 Введенное количество: 7
 
 Результат: 1 3 6 10 15 21 28
+
+![image](https://github.com/muray52/FlowSummation/assets/5577221/4bce54e8-76f1-4cb9-94a9-d9e987aaffb5)
