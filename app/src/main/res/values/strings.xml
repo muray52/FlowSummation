@@ -1,0 +1,10 @@
+<resources>
+<!--    Flow Summation Screen-->
+    <string name="app_name">Flow-сумматор</string>
+    <string name="summation_launch">Запустить сумматор</string>
+    <string name="summation_result_divider">%s %s</string>
+    <string name="summation_result_input_number">Введенное количество: %s\n</string>
+    <string name="summation_result_summation">Результат: </string>
+    <string name="summation_result_end_of_summation">\n\n</string>
+
+</resources>
